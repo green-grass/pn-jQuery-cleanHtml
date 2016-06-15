@@ -1,0 +1,14 @@
+{
+  "name": "pn-jquery-cleanhtml",
+  "description": "PhantomNet jQuery plugin cleanhtml",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/green-grass/pn-jquery-cleanhtml.git"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-uglify": "1.2.0",
+    "rimraf": "2.2.8"
+  }
+}

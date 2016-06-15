@@ -1,0 +1,29 @@
+{
+  "name": "pn-jquery-cleanhtml",
+  "version": "1.0.0-rc1-1",
+  "description": "PhantomNet jQuery plugin cleanhtml",
+  "main": "./dist/pn-cleanhtml.js",
+  "authors": [
+    "Minh Nguyen <mnguyen284@gmail.com>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "PhantomNet",
+    "jQuery"
+  ],
+  "moduleType": [
+    "globals"
+  ],
+  "homepage": "https://github.com/green-grass/pn-jquery-cleanhtml",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.5.0",
+    "angular-sanitize": "~1.5.0"
+  }
+}
