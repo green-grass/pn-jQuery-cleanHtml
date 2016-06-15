@@ -2,7 +2,7 @@
 
     "use strict";
 
-    var PLUGIN_NAME = "cleanHtml";
+    var PLUGIN_NAME = "cleanhtml";
 
     var methods = {
 
