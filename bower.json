@@ -1,6 +1,6 @@
 {
   "name": "pn-jquery-cleanhtml",
-  "version": "1.0.0-rc1-3",
+  "version": "1.0.0-rc1-4",
   "description": "PhantomNet jQuery plugin cleanhtml",
   "main": "./dist/pn-cleanhtml.js",
   "authors": [
@@ -23,6 +23,6 @@
     "tests"
   ],
   "dependencies": {
-    "jquery": "~2.2.0"
+    "jquery": ">= 2.0.0"
   }
 }
